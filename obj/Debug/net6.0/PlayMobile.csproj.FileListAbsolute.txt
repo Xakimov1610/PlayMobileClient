@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\PlayMobile\obj\Debug\net6.0\PlayMobile.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PlayMobile\obj\Debug\net6.0\PlayMobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PlayMobile\obj\Debug\net6.0\PlayMobile.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PlayMobile\obj\Debug\net6.0\PlayMobile.AssemblyInfo.cs
+C:\Users\User\source\repos\PlayMobile\obj\Debug\net6.0\PlayMobile.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PlayMobile\obj\Debug\net6.0\PlayMobile.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\source\repos\PlayMobile\obj\Debug\net6.0\PlayMobile.MvcApplicationPartsAssemblyInfo.cache
